@@ -1,0 +1,72 @@
+{
+  "date": "2026-10-07",
+  "title": "CA1 NumPy MLP classification",
+  "completion_gate_passed": true,
+  "files": [
+    {
+      "path": ".gitignore",
+      "sha256": "c12e024ea0563a22944846ef60bb62c88bd3d13491c5519cdf5cfa1086c661e7",
+      "bytes": 102
+    },
+    {
+      "path": "assignment.ipynb",
+      "sha256": "beadc5cd38ad1277e41b2ec6720ad3ba3a9a196e7677b22e13b5b519dee00197",
+      "bytes": 2534
+    },
+    {
+      "path": "assignment.json",
+      "sha256": "4d50ecf706f2f9a15bac2935f5392e5be0545a930d9221c72cf4494eb07ba085",
+      "bytes": 17
+    },
+    {
+      "path": "ATTRIBUTION.md",
+      "sha256": "4579fc59a268e6f04a09f1af7a534a28ad152d72078e840c35a7e6a5852c0e28",
+      "bytes": 545
+    },
+    {
+      "path": "experiment.py",
+      "sha256": "524e2d3a44532f4fe94af6d10fb3e7a31a1e5ecac6d6ec25930ae68f0512aeb3",
+      "bytes": 81
+    },
+    {
+      "path": "experiment_core.py",
+      "sha256": "6c74b17c1c85c92ad4d713607a5bc0362e60e3d4bd9e2543d118c698840fd8ea",
+      "bytes": 11756
+    },
+    {
+      "path": "metrics.json",
+      "sha256": "e4623207d27a34fc5cda010732ead717c015a4a4584d77f68049d17a8ad2cc68",
+      "bytes": 22667
+    },
+    {
+      "path": "models.py",
+      "sha256": "3637add9ed24d04d6652e8013ed0a94aa537b666e074ac4634bbf31ab27a03bc",
+      "bytes": 6484
+    },
+    {
+      "path": "README.md",
+      "sha256": "8ce668b245fc5ec97290dc2413f6d4669682cf31951108506510c93cab0d41c0",
+      "bytes": 3210
+    },
+    {
+      "path": "requirements.txt",
+      "sha256": "dd88430cd01f0bb49bcfb1c4c665ab31c8d202773dd8ca18ecfa900115dfb6cb",
+      "bytes": 65
+    },
+    {
+      "path": "test_models.py",
+      "sha256": "eeef39c60a0d821b27e889df24698a9aac614261d295fe4ffa5476f41ddc318e",
+      "bytes": 1711
+    },
+    {
+      "path": "test_workflow.py",
+      "sha256": "13e5fd5bfbb58f79c012d1ffdeeeae6c23f87e6ef6826c987e285ef4f020f8a4",
+      "bytes": 2834
+    },
+    {
+      "path": "VERIFICATION.json",
+      "sha256": "ab4bfc6895b385001f71718b679a408600c2d57f237c21604fd5d5c8f91e9efd",
+      "bytes": 992
+    }
+  ]
+}
